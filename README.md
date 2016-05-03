@@ -1,4 +1,4 @@
-# Airbnb CSS / Sass Styleguide
+# JB Hi-Fi CSS / Sass Styleguide
 
 *A mostly reasonable approach to CSS and Sass*
 
